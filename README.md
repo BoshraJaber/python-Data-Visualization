@@ -1,5 +1,6 @@
 # Data Visulization:
 
+* [seaborn documentation here](https://seaborn.pydata.org/tutorial/function_overview.html)
 ## Notes:
 * we can do it using seaborn ```import seaborn as sns ```
 * Seaborn is a tool used on top of Matplotlib, it can pretty iy up
