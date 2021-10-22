@@ -12,5 +12,5 @@
  5. `sns.countplot(data=mpg, x="cylinders")`
  6. `sns.relplot(x="model_year",y="mpg",data=avg_mpg)`
  7. `sns.lmplot(x="year",y="passengers",data=year_sums)`  to make some prediction 
- 8. ` g.set_xticklabels(labels=list(month_abbr)[1:]) `
+ 8. ` g.set_xticklabels(labels=list(month_abbr)[1:]) ` to load month abbreviation 
 `
